@@ -1,0 +1,52 @@
+
+
+Distro:
+- other os like microsoft combine each bit of code internally and release as one os 
+- linux different parts are developed by different organisations ( kernel, shell, server, gui, system env )
+- individual's can access all these and combine them to create an os 
+- distro will do these 
+- standard distro 
+	- kernel, gnu system , gnu utilities, libraries, compilers, documentation, office software, windows manager  etc 
+	
+	Eg: Ubuntu, Linux Mint, Debian, Fdora, Red hat, Arch linux 
+	
+	
+	
+Introductory terms in Linux : 
+
+Binaries:
+- executables in windows are binaries in linux 
+
+case sensitivity:
+- linux is case sensitive 
+
+Directory:
+- same as folder in windows 
+
+home:
+- each user has their own directory where his files generally get stored 
+
+root:
+- same as admin in windows 
+- he has access to everything in linux os 
+- he can delete anything in linux os 
+- he has access on every user , every file everything 
+
+scripting:
+- series of commands run in an interpretive environment 
+
+shell:
+- acts as an interface between user and os 
+
+terminal:
+- command line interface 
+
+
+Linux File System:
+- in linux everything is a file 
+- hierarical file structure 
+- the first file is root 
+
+
+vmware download link: https://drive.google.com/file/d/13P9P6e_Tm0O3IYP9KwipeAUEjejN2ASs/view?usp=sharing
+

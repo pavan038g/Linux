@@ -1,0 +1,43 @@
+
+
+- what happens when we compile a c program language 
+
+linux history:
+
+- 1972 c lang was developed by dennis ritchie 
+- unix is now rewritten in c 
+- unix gains popularity as it uses c which is portable, networking possibility and availability 
+- linus torvald , a finnish student wrote initial version of linux 
+- first version of linux released in 1991 
+- torvald written only os kernel, os is developed by millions of developers worldwide 
+- linux is free and open source 
+- uses monolithic kernel structure 
+
+
+linux today:
+- super computers, smart phones, desktop 
+- web servrs, laptops
+- washing machine, dvd player 
+- routers 
+- cars, refrigerators, airplanes
+
+
+linux vs unix:
+
+- is linux same as unix ..?
+- linux is derived from unix 
+- every single line of linux is written from scratch 
+- linux is just kernel where as unix is os 
+- linux is packaged in linux distributions to make it as an os 
+- linux: c, rust : unix: c and assembly prog 
+- linux: opensource : unix: mixed ( mostly closed, rarely open)
+- linux : monolithic file structure, unix: monolithic, micro, hybrid 
+- linux: debian, ubuntu, fedora, redhat, android : unix: ibm aix, solaris, macos 
+- linux : patches are quick : unix: slow 
+- linux: mostlt free konni paid : unix: mostly paid konni free vi vunai 
+
+
+vmware software 
+kali linux os
+
+Winrar Download Link: https://win-rar.com/download.html?&L=5  

@@ -1,0 +1,76 @@
+
+- utf 
+- header files lo emuntai..? 
+- socket programming 
+
+
+
+what is an computer..?
+- electronic device that do play music, video files, internet
+with some mathematical calculations behind
+
+what is an operating system:
+- program that acts as a interface between user and computer hardware 
+- controls execution of all kind of programs 
+
+Important functionalities of OS:
+
+- Memory management 
+- process management 
+	- program in execution 
+	- PCB 
+		- process control block 
+			- double linked list 
+				- pid 
+				- program counter 
+				- registers 
+				- list of open files 
+				- process state 
+					- new 
+					- ready
+					- run 
+					- block, wait
+					- suspend 
+					- terminate 
+- device management 
+- file management 
+- security 
+- job accounting 
+- cpu scheduling 
+- systame performance 
+	
+	
+History:
+- computers are as big as rooms 
+- every computer has it's own os 
+- every software designed is specific and do not work on other os 
+- costly and very difficult to operate 
+
+Linux History:
+- linux is distributional version of unix 
+- unix is inspired by multics os ( multi user, multi process, hierarical file structure)
+- unix first version released in 1970 in assembly prog lang 
+- 
+
+
+vmware:
+https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html
+
+kali linux download:
+https://www.kali.org/get-kali/#kali-virtual-machines
+
+
+
+
+2 files 
+
+- vmware 
+- kali linux os 
+
+
+
+guest os 2
+guest os 1 - kali linux 
+virtualization software - vmware 
+host os - windows 
+host computer 

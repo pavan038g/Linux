@@ -1,0 +1,35 @@
+
+
+commands:
+
+using pwd:
+	- present working directory 
+	- used to display location of current folder in use 
+	
+	Eg: pwd 
+	
+
+using whoami:
+	- used to display username of the user currently logged in 
+	
+	Eg: whoami 
+	
+using cd:
+	- change directory 
+	- used to traverse between the folders 
+	
+	Eg: cd /
+		cd /home/kali 
+		cd .. : .. represents parent folder 
+		cd . : . represents current folder  
+		cd ../../../../../../../../../../../../../../
+		
+using ls:
+	- listing directories 
+	- used to display content of a folder 
+	- content : file or folder 
+	
+	Eg: ls 
+		ls -l 
+		ls -a 
+		ls -al 
