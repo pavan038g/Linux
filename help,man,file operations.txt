@@ -1,0 +1,64 @@
+
+
+what really happens when we browse a url into web browser..?
+- typing a domain name into browser 
+- DNS
+- TCP Handshaking 
+- TLS Handshaking 
+- http request and response ( data sharing )
+
+
+
+using help:
+- display options for a command 
+- display short description about the option 
+	Eg: command --help 
+		command -h 
+		rmdir --help 
+		
+		
+using man:
+- display long description about the command and its options 
+	Eg: man command 
+		man nmap 
+		man mkdir 
+
+
+using locate command:
+- used to search for files in linux file system 
+- light weight command 
+- locate command search for file inside a database not on real file system 
+- database will update once for a day 
+	Eg: locate filename 
+		sudo updatedb : we can update database 
+		
+
+using whereis:
+- used to search for binary file 
+- if manual pages are present, it will also display the path 
+	Eg: whereis binaryfile 
+		whereis locate 
+	
+
+using which:
+- more specific 
+- used to search for a binary file in PATH variable
+- PATH is an environment variable 
+	Eg: which locate 
+	
+
+using find:
+- used to search for file/folder 
+- it is used in real time 
+- find search on real file system 
+- find can search for files/folders using name, size, permission, group, file type, dates etc 
+	Eg: find / -name filename 
+		find /home/kali -name filename 
+		find /home -iname filename 
+		find /home -type f -name filename 
+		find /home/kali -type d -perm 0644 -name filename
+		man find 
+		find --help 
+		
+	
+
